@@ -1,5 +1,6 @@
 # Mobile Safety Research Paper
-** Natural Language Processing **
+
+**Natural Language Processing**
 
 Research Paper: Detect Mobile Safety issue on Android platform 
 
