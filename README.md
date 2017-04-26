@@ -1,9 +1,8 @@
 # Mobile_Safety_Research_Paper
 Research Paper: Detect Mobile Safety issue on Android platform 
-
+This is a repository that saves all the important files for Mobile Safety Research Paper. 
 
 ## Research Documentations 
-This is a repository that saves all the important files for Mobile Safety Research Paper. 
 1. Weekly Progress (save in the weekly folder)
 * Code
 * Weekly Presentaion Slides
