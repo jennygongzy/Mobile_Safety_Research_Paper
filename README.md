@@ -1,10 +1,11 @@
 # Mobile Safety Research Paper
 
-**Natural Language Processing**
+National Science Foundation (NSF) funded Research
 
-Research Paper: Detect Mobile Safety issue on Android platform 
+-Can You Trust Apps’ Age Recommendations? Inconsistent and Unreliable Maturity Ratings on Mobile Platforms
 
-This is a repository that saves all the important files for Mobile Safety Research Paper. 
+-------------------------
+This is a repository that saves all the important files for the research paper. 
 
 ## Research Documentations 
 1. Weekly Progress (save in the weekly folder)
